@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tidal": "haskell",
+    "*.js": "javascriptreact",
+    "sstream": "c"
+  }
+}
